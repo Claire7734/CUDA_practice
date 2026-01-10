@@ -1,1 +1,1 @@
-# GroupGEMM
+# CUDA Practice
